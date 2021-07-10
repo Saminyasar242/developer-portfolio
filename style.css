@@ -19,7 +19,6 @@ h2{
     width: 60%;
     padding-left: 5%;
     
-    
 }
 .half-width img {
     width: 50%;
@@ -49,4 +48,30 @@ h2{
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+}
+.experience-area{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.experience-item{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    padding-right: 20px;
+    box-shadow: 10px 10px 40px skyblue;
+}
+#web-dev-exp-item{
+    border: 10px solid;
+    border-image: linear-gradient(skyblue,violet);
+    border-image-slice: 1;
+}
+#full-stack-exp{
+    border: 10px solid;
+    border-image: linear-gradient(skyblue,blue);
+    border-image-slice: 1;
+}
+footer p{
+    text-align: center;
 }
