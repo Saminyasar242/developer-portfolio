@@ -13,6 +13,7 @@ h2{
 }
 section{
     display: flex;
+    margin-bottom: 50px;
 }
 .half-width{
     width: 60%;
@@ -42,4 +43,10 @@ section{
 .half-widthhhh{
     width: 60%;
     padding-left: 5%;
+    padding-right: 15%;
+}
+.web-developer{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
