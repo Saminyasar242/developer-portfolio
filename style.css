@@ -21,12 +21,9 @@ section{
     
 }
 .half-width img {
-    width: 100%;
-    padding-top: 5%;
-    padding-bottom: 5%;
-    padding-right: 5%;
-    padding-left: 5%;
-    
+    width: 50%;
+    border-radius: 50%;
+    border-right: 20%;
 }
 .link-button{
     text-decoration: none;
@@ -40,14 +37,8 @@ section{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
-.image-circle{
-    width: 100%;
-    padding-top: 5%;
-    padding-bottom: 5%;
-    padding-right: 5%;
-    padding-left: 5%;
-    border-radius: 200%;
-}
+
+
 .half-widthhhh{
     width: 60%;
     padding-left: 5%;
