@@ -11,7 +11,7 @@ h2{
 .violet-color{
     color: violet;
 }
-section{
+.flexible-container{
     display: flex;
     margin-bottom: 50px;
 }
